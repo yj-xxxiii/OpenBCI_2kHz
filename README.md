@@ -1,7 +1,7 @@
 # OpenBCI_32-write-to-DS-only
 OpenBCI 32 code mod to enable writing to the SD card only up to 2kHz plus some minor adds...
 
-Does all the things that the OpenBCI_32 code does, but it has added features. To access these features, you must send commands which activates the board . You can run this from any serial terminal (OpenBCI doesn not have this funcitonality yet) and send the individual character commands.
+Does all the things that the OpenBCI_32 code does, but it has added features. To access these features, you must send commands which activates the board . You can run this from any serial terminal (OpenBCI doesn not have this functionality yet) and send the individual character commands.
   
       This version, called OpenBCI_32_SD_Only has added features to optionally :
 
